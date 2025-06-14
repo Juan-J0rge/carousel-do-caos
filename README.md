@@ -21,4 +21,5 @@ Explorei recursos como:
 
 - ## 🌐 Demo Online
 
-Veja a aplicação rodando [aqui no Vercel]([https://seu-projeto.vercel.app](https://tarefa-bootstrap2.vercel.app/))
+Veja a aplicação rodando [aqui no Vercel]
+https://tarefa-bootstrap2.vercel.app/
